@@ -6,13 +6,13 @@ WordPress Admin Panel Password Cracker [Brute Force]
 ![Screenshot](Screenshot.png?raw=ture "Screenshot")
 
 
-# Clone Script
+## Clone Script
 
 `git clone https://github.com/The404Hacking/WordBrutePress.git
 cd WordBrutePress`
 
 
-# Usage
+## Usage
 
 `git clone https://github.com/The404Hacking/WordBrutePress.git
 cd WordBrutePress
